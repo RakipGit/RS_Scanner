@@ -42,9 +42,18 @@ This project helped me better understand:
 
 ## Screenshots
 
-![Final Scan Visualization](images/Scan_Visualization.png)
+![main](images/main.png)
 
 <details>
+  
+1.Common Ports Scan 
+![Fisrt Coomon Port Scan](images/optscan.png)
+
+2.Full Scan
+![Full Port Scan](images/fullscan.png)
+
+3.How RScanner Handles Wrong User Inputs
+![Errors](images/errors.png)
 
 </details>
 
