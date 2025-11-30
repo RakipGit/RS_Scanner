@@ -15,7 +15,7 @@ console = Console()
 
 
 #terminal title
-os.system("title LTScanner")
+os.system("title RScanner")
 
 
 #creating my banner
