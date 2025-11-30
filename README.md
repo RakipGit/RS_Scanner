@@ -19,13 +19,14 @@ This project helped me better understand:
 
 ## What This Scanner Can Do
 - Resolve domain names to IP addresses
+- Threaded scanning for speed
 - Display target city and country using ip-api
 - Scan:Common ports (1–1023) and Full port range (1–65535)
 - Detect open TCP ports
 - Display the service of each port (80=http,22=ssh,etc.)
 - Show results in styled tables using Rich
 - Keep track of total scans completed and total open ports
-- Loop mode (scan again without restarting app)
+- Loop mode (scan again without restarting app and count the number of scans)
 
 ---
 
