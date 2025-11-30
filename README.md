@@ -88,6 +88,6 @@ I made this tool for my own educational and authorized testing purposes only.Do 
 
 ## Rakip 
 
-Cyber Security Professional 
+ICT Engineering | Cybersecurity & Network Security
 
 ---
