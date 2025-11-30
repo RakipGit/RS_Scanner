@@ -2,7 +2,7 @@
 
 ## RS Scanner – Python Port Automation Scanner
 
-A fast Python port scanning tool designed to identify open network ports on a target domain, built for simplicity and clean terminal visualization.
+A fast Python port scanning tool designed to identify open network ports on a target domain built for simplicity and clean terminal visualization.
 
 ---
 
